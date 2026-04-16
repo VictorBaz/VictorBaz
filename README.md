@@ -10,7 +10,7 @@ Développeur orienté Gameplay Programming.
 ### PREMIERE ANNEE (2024-2025)
 * **Echo-42** | Simulation d'opérateur radio
     * Technologies : Unity, C#, Dynamic UI Systems.
-    * Focus : Gestion d'interface évolutive et Sound Design narratif.
+    * Focus : Gestion d'interface évolutive et Sound Design.
 
 ### DEUXIEME ANNEE (2025-2026)
 * **Guns-N-Robots** | Jeu de rythme en Réalité Virtuelle
