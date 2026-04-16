@@ -22,7 +22,7 @@ Développeur orienté Gameplay Programming.
 * **Super-Smash-Socks** | Jeu de combat à contrôleur alternatif
     * Technologies : Hardware Integration, JoyToKey, Unity.
     * Focus : Design d'un contrôleur textile physique et retour tactile.
-* **HD2D_Semester_Project** | Jeu de Puzzle mélangeant 2D et 3D
+* **HD2D_Semester_Project** | Jeu de Puzzle mélangeant 2D et 3D $\color{red}{\text{--- RÉPERTOIRE LE PLUS AVANCÉ ---}}$
     * Technologies : C#, Shader Graph & HLSL, Rendering 2D/3D, Complexe State Machine.
 
 ---
