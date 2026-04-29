@@ -34,7 +34,7 @@ Développeur orienté Gameplay Programming.
 * Hardware : Intégration de contrôleurs alternatifs, JoyToKey
 * Outils : Git, Shader Graph
 * IDE : Visuals Studio Code, JetBrain Rider, CLion
-* Language : C#, Python, C++ (Begginer)
+* Language : C#, Python, C++ (Beginner)
 
 ---
 Formation Game Design & Programming - Rubika Valenciennes
