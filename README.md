@@ -42,8 +42,8 @@ Afin de garder mes travaux clairs et structurés, mes dépôts sont répartis da
 * **Moteurs & Outils :** Unity (C#), Git/GitHub, Shader Graph & HLSL
 * **Réseau & VR :** NetCode for GameObjects, OpenXR / Oculus Integration
 * **Hardware :** Intégration de contrôleurs alternatifs, JoyToKey
-* **Langages :** C#, Python, C++ (Débutant)
-* **IDEs :** Visual Studio Code, JetBrains Rider, CLion
+* **Langages :** C#, Python, C++ 
+* **IDEs :** Visual Studio Code, JetBrains Rider, CLion, Visuals Studio Community
 
 ---
 Formation Game Design & Programming — Rubika Valenciennes
