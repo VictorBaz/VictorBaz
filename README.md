@@ -16,6 +16,15 @@ Afin de garder mes travaux clairs et structurés, mes dépôts sont répartis da
 
 ---
 
+## EXPÉRIENCE PROFESSIONNELLE
+
+### GunPowder Studio — Stagiaire Gameplay Developer (1 mois)
+* **[GoKaboom (Mortier-Fu)](https://github.com/Asemerald/mortier-fu)** | *Jeu vidéo*
+  * **Technologies & Architecture :** Asynchronisme avec UniTask, ServiceLocator Pattern, CI/CD.
+  * **Focus :** Programmation gameplay, architecture logicielle et mise en place d'outils d'intégration continue.
+
+---
+
 ## PARCOURS ET PROJETS ACADÉMIQUES (VictorRubikaProjects)
 
 ### PREMIÈRE ANNÉE (2024-2025)
@@ -39,11 +48,12 @@ Afin de garder mes travaux clairs et structurés, mes dépôts sont répartis da
 ---
 
 ## COMPÉTENCES TECHNIQUES
-* **Moteurs & Outils :** Unity (C#), Git/GitHub, Shader Graph & HLSL
+* **Moteurs & Outils :** Unity (C#), Git/GitHub, Shader Graph & HLSL, CI/CD
+* **Architecture & Patterns :** UniTask (Async), ServiceLocator Pattern, State Machines
 * **Réseau & VR :** NetCode for GameObjects, OpenXR / Oculus Integration
 * **Hardware :** Intégration de contrôleurs alternatifs, JoyToKey
-* **Langages :** C#, Python, C++ 
-* **IDEs :** Visual Studio Code, JetBrains Rider, CLion, Visuals Studio Community
+* **Langages :** C#, Python, C++
+* **IDEs :** Visual Studio Code, JetBrains Rider, CLion, Visual Studio Community
 
 ---
 Formation Game Design & Programming — Rubika Valenciennes
